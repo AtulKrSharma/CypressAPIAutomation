@@ -1,0 +1,25 @@
+{
+  "name": "cypressapiautomation",
+  "version": "1.0.0",
+  "description": "cypress API Automation Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtulKrSharma/CypressAPIAutomation.git"
+  },
+  "keywords": [
+    "cypress",
+    "API",
+    "javascript",
+    "js"
+  ],
+  "author": "Atul Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtulKrSharma/CypressAPIAutomation/issues"
+  },
+  "homepage": "https://github.com/AtulKrSharma/CypressAPIAutomation#readme"
+}
